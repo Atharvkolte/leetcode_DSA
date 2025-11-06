@@ -83,6 +83,3 @@ If you find something missing or want to collaborate, drop a message or open an 
 
 ---
 
-**Confidence Score**: 76%
-
-[1]: https://github.com/Atharvkolte/leetcode_DSA/tree/main "GitHub - Atharvkolte/leetcode_DSA"
